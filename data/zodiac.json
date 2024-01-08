@@ -1,0 +1,74 @@
+{
+	"aries": {
+		"simbolo": "♈",
+		"dateMin": "2000-03-21",
+		"dateMax": "2000-04-20",
+		"resumo": "Áries, o primeiro signo do zodíaco, é representado pelo carneiro, simbolizando coragem, energia e iniciativa. Pessoas desse signo são conhecidas por serem enérgicas, aventureiras, corajosas e impulsivas. Regidos por Marte, têm uma natureza assertiva e uma grande determinação para enfrentar desafios. São líderes naturais, apaixonados por novas experiências e não têm medo de assumir riscos. Podem ser impulsivos às vezes, mas também são honestos, diretos e dedicados a suas metas e ideais."
+	},
+	"taurus": {
+		"simbolo": "♉",
+		"dateMin": "2000-04-21",
+		"dateMax": "2000-05-21",
+		"resumo": "Touro, o segundo signo do zodíaco, é representado pelo touro, simbolizando estabilidade, segurança e sensualidade. Pessoas desse signo são conhecidas por serem práticas, pacientes, leais e determinadas. Regidos por Vênus, valorizam o conforto material, a estabilidade e a beleza. São persistentes em alcançar seus objetivos e têm uma forte conexão com a natureza e os prazeres sensoriais. São confiáveis e leais em seus relacionamentos, buscando segurança e estabilidade emocional. Também têm uma inclinação artística e apreciam as coisas boas da vida."
+	},
+	"gemini": {
+		"simbolo": "♊",
+		"dateMin": "2000-05-22",
+		"dateMax": "2000-06-21",
+		"resumo": "Gêmeos, o terceiro signo do zodíaco, é representado pelos gêmeos, simbolizando dualidade, versatilidade e comunicação. Pessoas desse signo são conhecidas por serem comunicativas, curiosas, inteligentes e adaptáveis. Regidos por Mercúrio, têm uma mente ágil e estão sempre em busca de novas experiências e conhecimentos. São sociais e adoram interagir, sendo habilidosos na comunicação e no relacionamento interpessoal. Por vezes, podem ser inquietos e indecisos, mas possuem uma capacidade única de se adaptar a diferentes situações e ambientes com facilidade."
+	},
+	"cancer": {
+		"simbolo": "♋",
+		"dateMin": "2000-06-22",
+		"dateMax": "2000-07-22",
+		"resumo": "Câncer, o quarto signo do zodíaco, é representado pelo caranguejo, simbolizando sensibilidade, proteção e emoções. Pessoas desse signo são conhecidas por serem carinhosas, familiares, intuitivas e protetoras. Regidos pela Lua, têm uma forte ligação com as emoções e valorizam os laços familiares e a segurança emocional. São empáticos e atenciosos com os outros, buscando sempre nutrir e cuidar daqueles ao seu redor. Podem ser um pouco reservados inicialmente, mas uma vez que se sentem confortáveis, são leais e afetuosos."
+	},
+	"leo": {
+		"simbolo": "♌",
+		"dateMin": "2000-07-23",
+		"dateMax": "2000-08-22",
+		"resumo": "Leão, o quinto signo do zodíaco, é representado pelo símbolo do leão, simbolizando autoconfiança, liderança e paixão. Pessoas de Leão são conhecidas por serem generosas, criativas e extrovertidas, mas também podem ser orgulhosas e teimosas. Regido pelo Sol, têm uma natureza expressiva, buscando o centro das atenções e desfrutando de reconhecimento e admiração. São excelentes líderes, leais e apaixonados, buscando sempre brilhar em tudo que fazem."
+	},
+	"virgo": {
+		"simbolo": "♍",
+		"dateMin": "2000-08-23",
+		"dateMax": "2000-09-23",
+		"resumo": "Virgem, o sexto signo do zodíaco, é representado pela virgem, simbolizando praticidade, organização e análise. Pessoas desse signo são conhecidas por serem metódicas, responsáveis, práticas e detalhistas. Regidos por Mercúrio, têm uma mente analítica e crítica, buscando a perfeição em tudo que fazem. São dedicados ao trabalho, valorizando a eficiência e a precisão. Possuem uma forte ética de trabalho e são confiáveis, muitas vezes assumindo papéis de apoio em grupos ou relações, sendo prestativos e atenciosos com os outros."
+	},
+	"libra": {
+		"simbolo": "♎",
+		"dateMin": "2000-09-24",
+		"dateMax": "2000-10-23",
+		"resumo": "Libra, o sétimo signo do zodíaco, é representado pela balança, simbolizando equilíbrio, justiça e harmonia. Pessoas desse signo são conhecidas por serem diplomáticas, encantadoras, sociáveis e buscadoras de paz. Regidos por Vênus, valorizam a beleza e a estética, além de serem apaixonados por relações harmoniosas. Têm um forte senso de justiça e buscam sempre encontrar o equilíbrio em suas vidas e nos relacionamentos. São amáveis, carismáticos e têm uma habilidade natural para mediar conflitos, prezando pela harmonia e pela cooperação."
+	},
+	"scorpio": {
+		"simbolo": "♏",
+		"dateMin": "2000-10-24",
+		"dateMax": "2000-11-22",
+		"resumo": "Escorpião, o oitavo signo do zodíaco, é representado pelo escorpião, simbolizando intensidade, paixão e mistério. Pessoas desse signo são conhecidas por serem determinadas, corajosas, magnéticas e profundas. Regido por Plutão e Marte, têm uma natureza emocionalmente poderosa e são perspicazes, capazes de ler entre as linhas e entender profundamente as situações. São leais e protetores com aqueles que amam, mas também podem ser reservados e misteriosos. Possuem uma energia intensa e uma vontade forte, buscando a verdade e a transformação em suas vidas."
+	},
+	"sagittarius": {
+		"simbolo": "♐",
+		"dateMin": "2000-11-23",
+		"dateMax": "2000-12-21",
+		"resumo": "Sagitário, o nono signo do zodíaco, é representado pelo arqueiro, simbolizando liberdade, aventura e expansão. Pessoas desse signo são conhecidas por serem otimistas, aventureiras, extrovertidas e entusiasmadas. Regido por Júpiter, têm uma sede de conhecimento, buscando experiências e aprendizados. São francas, generosas e têm um grande senso de humor. Valorizam a liberdade e a independência, buscando constantemente novos horizontes e desafios."
+	},
+	"capricorn": {
+		"simbolo": "♑",
+		"dateMin": "2000-12-22",
+		"dateMax": "2000-01-20",
+		"resumo": "Capricórnio, o décimo signo do zodíaco, é representado pelo símbolo da cabra do mar. Pessoas desse signo são conhecidas por serem determinadas, práticas, responsáveis e ambiciosas. Regido por Saturno, Capricornianos valorizam o trabalho árduo, a disciplina e a estabilidade. São persistentes na busca por seus objetivos e tendem a ser reservados, porém confiáveis e leais com aqueles próximos a eles. Buscam sucesso e reconhecimento, sendo excelentes em planejamento e gestão."
+	},
+	"aquarius": {
+		"simbolo": "♒",
+		"dateMin": "2000-01-21",
+		"dateMax": "2000-02-19",
+		"resumo": "Aquário, o décimo primeiro signo do zodíaco, é representado pelo portador d'água, simbolizando originalidade, independência e progressividade. Pessoas desse signo são conhecidas por serem visionárias, inventivas, altruístas e humanitárias. Regido por Urano, têm uma mente inovadora e são adeptas a pensar de forma não convencional. São sociáveis, porém valorizam sua liberdade e independência. Têm um forte senso de justiça e buscam contribuir para causas sociais e coletivas. Esses indivíduos são únicos e gostam de expressar sua individualidade."
+	},
+	"pisces": {
+		"simbolo": "♓",
+		"dateMin": "2000-02-20",
+		"dateMax": "2000-03-20",
+		"resumo": "Peixes, o décimo segundo signo do zodíaco, é representado pelos dois peixes nadando em direções opostas, simbolizando dualidade, intuição e compaixão. Pessoas desse signo são conhecidas por serem sensíveis, empáticas, criativas e sonhadoras. Regidos por Júpiter e Netuno, têm uma conexão intuitiva com as emoções e são naturalmente compassivas, muitas vezes absorvendo os sentimentos dos outros. São imaginativos e altruístas, buscando frequentemente ajudar os outros. Por vezes, podem ser indecisos, mas possuem uma natureza generosa e acolhedora."
+	}
+}
